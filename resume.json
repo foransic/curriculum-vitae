@@ -24,11 +24,11 @@
           "title" : "Solution Manager",
           "desc" : "Rédaction de propositions commerciales & de réponses à appel d’offres sur des projets numériques de type eCommerce, applications mobiles, objets connectés et digitalisation de point de vente en France et à l'international."
         },{
-          "title" : "Chef de projet MOE",
+          "title" : "Chef de projet",
           "desc" : "Gestion de projets d’intégration de solutions numériques internes et tierces pour des acteurs internationaux du retail. <br />Principaux clients : Clients : Sephora, Carrefour, METRO, Intermarché, Mr. Bricolage"
         },{
           "title" : "Responsable d'équipe",
-          "desc" : "Responsable d’une équipe de développement J2EE travaillant sur des projets de construction ou d’exploitation de sites eCommerce basés sur la solution eCommerce Worldline en France et à l'international, pour le compte du groupe Auchan. <br />Principaux clients : Chronodrive France et Italie, Auchandrive, Auchandirect France et Pologne"
+          "desc" : "Animation d’une équipe de développeurs J2EE travaillant sur des projets de construction ou d’exploitation de sites eCommerce basés sur la solution eCommerce Worldline en France et à l'international, pour le compte du groupe Auchan. <br />Principaux clients : Chronodrive France et Italie, Auchandrive, Auchandirect France et Pologne"
         }]
     },{
       "title" : "Worldline - ingénieur études & développements",
@@ -40,11 +40,14 @@
       }]
     }],
   "skills" :[{
-      "domain" : "Gestion de projet",
+      "domain" : "Gestion de projet & Agile",
       "levels" : [{
           "score" : "3",
-          "desc" : "10 ans d'expérience en tant que chef de projet. <br />Certifié PMP en 2013, certifié Scrum Master en 2016."
-        }]
+          "desc" : "10 ans d'expérience en tant que chef de projet. <br />Certifié PMP en 2013"
+        },{
+          "score" : "2",
+          "desc" : "Animation d'équipe, utilisation des rituels et artefacts Scrum. <br />Certifié Scrum Master en 2016 et Product Owner en 2019"
+      }]
     },{
       "domain" : "Langues",
       "levels" : [{
@@ -80,7 +83,7 @@
   ],
   "hobbies" : [{
       "domain" : "Sports",
-      "desc" : "Vélo, course à pied, sports de raquette"
+      "desc" : "Vélo (course et gravel), course à pied (loisirs)"
     },{
       "domain" : "Loisirs",
       "desc" : "Musique (guitare, percussions), jeux vidéo"
